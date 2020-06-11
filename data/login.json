@@ -1,6 +1,14 @@
 {
-  "url": "https://outbound.ynt.ai/outplan",
-  "account": "gurr@kalamodo.com",
-  "password": "ynt123",
-  "status": 1000
+  "login01":{
+            "url": "https://outbound.ynt.ai/outplan",
+            "account": "gurr@kalamodo.com",
+            "password": "ynt123",
+            "status": 1000
+  },
+  "login02":{
+            "url": "https://outbound.ynt.ai/outplan",
+            "account": "gurr@kalamodo.com",
+            "password": "ynt12",
+            "status": 3001
+  }
 }
